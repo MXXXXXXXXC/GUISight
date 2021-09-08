@@ -4,7 +4,7 @@
 
 ## Introduce to this tool
 
-* The GUI-detection technique used in this tool is build upon UIED,  and we improve its performance. Please refer to [this link](https://dl.acm.org/doi/abs/10.1145/3368089.3417940?casa_token=nlSz6krp82MAAAAA:bc8QgFyUCYAZXu4GfcnMPsXGu7PeqB8TK8tuEV08THlwazAdwkuwQku1MeTUSY77rCa4nO6NpOjlKQ) for UIED. And (URL ) for our improvements.
+* The GUI-detection technique used in this tool is build upon UIED,  and we improve its performance. Please refer to [this link](https://dl.acm.org/doi/abs/10.1145/3368089.3417940?casa_token=nlSz6krp82MAAAAA:bc8QgFyUCYAZXu4GfcnMPsXGu7PeqB8TK8tuEV08THlwazAdwkuwQku1MeTUSY77rCa4nO6NpOjlKQ) for UIED. And (URL) for our improvements.
 * Our novel testing tool is a combination of vision-based GUI detection and model-based testing. ('') for detail.
    
 ## How to use?
