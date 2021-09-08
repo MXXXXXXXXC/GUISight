@@ -42,7 +42,7 @@ To reproduce the result in GUISight paper:
     1. Run run_on_desktop_set.py 
     2. Run evaluate_desktop.py
 * For RICO data set:
-    1. Please download the RICO data set from  https://storage.googleapis.com/crowdstf-rico-uiuc-4540/rico_dataset_v0.1/unique_uis.tar.gz and put it in data/Android_GUI_data
+    1. Please download the RICO data set from  [RICO](https://storage.googleapis.com/crowdstf-rico-uiuc-4540/rico_dataset_v0.1/unique_uis.tar.gz) and put it in data/Android_GUI_data
     2. Run run_on_RICO_set.py 
     3. Run evaluate_RICO.py
     4. Run RICO_difference.py
