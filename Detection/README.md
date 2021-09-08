@@ -30,6 +30,7 @@ Main part of GUISight's improvment upon UIED is in detect_compo\ip_region_propos
 Install the mentioned dependencies, and download two pre-trained models from [this link](https://drive.google.com/drive/folders/1MK0Om7Lx0wRXGDfNcyj21B0FL1T461v5?usp=sharing) for EAST text detection and GUI element classification.
 
 Change ``CNN_PATH`` and ``EAST_PATH`` in *config/CONFIG.py* to your locations.
+
 Unzip data.zip
 
 ### Usage
